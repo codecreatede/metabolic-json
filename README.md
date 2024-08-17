@@ -11,9 +11,6 @@ stream run application.py
 ```
 
 Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
 University of Potsdam \
 Potsdam,Germany
 
